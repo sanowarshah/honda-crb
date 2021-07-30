@@ -14,3 +14,9 @@
     background-color: #fceae8;
 
 }
+.image{
+    filter: grayscale(100%);
+}
+.section-margin{
+    margin-top: 150px;
+}
